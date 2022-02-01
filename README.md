@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Vinay Sehwag 👋
 
-<!--
-**VinaySehwag14/VinaySehwag14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Student & Developer!
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="malang | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="malang | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+<br />
+
+
+
+<img align="left" alt="Vinay Sehwag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VinaySehwag14&show_icons=true&hide_border=true&count_private=true&theme=radical" />
+
+[twitter]: https://twitter.com/VinaySehwag14
+[linkedin]: https://www.linkedin.com/in/vinay-sehwag-0272611a9/
+
+
