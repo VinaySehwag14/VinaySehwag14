@@ -9,7 +9,7 @@
 
 <br />
 <br />
-
+<a href="https://app.daily.dev/Malang14"><img src="https://api.daily.dev/devcards/9cb000e6e33b4a3398b096f270e470c4.png?r=mfy" width="400" alt="Vinay Sehwag's Dev Card"/></a>
 
 
 <img align="left" alt="Vinay Sehwag's Github Stats" src="https://github-readme-stats.vercel.app/api?username=VinaySehwag14&show_icons=true&hide_border=true&count_private=true&theme=radical" />
