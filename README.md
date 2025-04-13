@@ -4,7 +4,7 @@ Hi 👋 My name is Vinay Sehwag
 Web Developer and UI/UX explorer.
 ---------------------------------
 
-I have been learning code from 3 years , started as a node js developer but gaining interest in frontend technologies + designing tools and UI/UX.
+I have been learning code from 3+ years , started as a node js developer but gained interest in frontend technologies + designing tools and UI/UX.
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [vinaysehwag14@gmail.com](mailto:vinaysehwag14@gmail.com)
