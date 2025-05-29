@@ -8,6 +8,7 @@ I have been learning code from 3+ years , started as a node js developer but gai
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [vinaysehwag14@gmail.com](mailto:vinaysehwag14@gmail.com)
+* ✉️  You can connect with me on LinkedIn [(https://www.linkedin.com/in/vinay-sehwag-malang08/)]
 * ⚡  Gagangadhar hi shaktimaan hai, Pls don't tell anyone
 
 <a href="https://www.github.com/VinaySehwag14" target="_blank" rel="noreferrer"><img
@@ -40,6 +41,8 @@ src="https://img.shields.io/github/followers/VinaySehwag14?logo=github&style=for
 ### Socials
 
 <p align="left"> <a href="https://www.dev.to/vinaysehwag14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.github.com/VinaySehwag14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/vinay-sehwag-0272611a9/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/14862429/vinay-sehwag" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/VinaySehwag14" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<a href="https://app.daily.dev/malang14"><img src="https://api.daily.dev/devcards/v2/TklRDb3j3OmlxSxvBHOQg.png?r=858&type=default" width="356" alt="Vinay Sehwag's Dev Card"/></a>
 
 ### Badges
 
