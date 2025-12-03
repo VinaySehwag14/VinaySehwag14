@@ -1,7 +1,7 @@
 Hi 👋 My name is Vinay Sehwag
 =============================
 
-Web Developer and UI/UX explorer.
+Web Developer and AI integration into apps explorer.
 ---------------------------------
 
 I have been learning code from 3+ years , started as a node js developer but gained interest in frontend technologies + designing tools and UI/UX.
