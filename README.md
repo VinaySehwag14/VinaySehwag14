@@ -61,18 +61,9 @@ A full-stack social application with authentication and real-time data persisten
 
 ### 🔹 GitHub Stats
 
-<p align="left">
-  <a href="https://github.com/VinaySehwag14">
-    <img src="https://github-readme-stats.vercel.app/api?username=VinaySehwag14&show_icons=true&count_private=true&hide_border=true" />
-  </a>
-</p>
+![VinaySehwag14's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=VinaySehwag14&theme=dark&chart=bars)
 
-<p align="left">
-  <a href="https://github.com/VinaySehwag14">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinaySehwag14&hide_border=true" />
-  </a>
-</p>
-
+![VinaySehwag14's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=VinaySehwag14&type=languages&theme=dark&chart=bars)
 ---
 
 ⭐ If you’re interested in **frontend, product engineering, or AI-enabled web applications**, feel free to explore my repositories or reach out.
