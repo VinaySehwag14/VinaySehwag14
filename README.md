@@ -51,7 +51,7 @@ I enjoy building **production-ready products from scratch**, improving UX and pe
 
 ### 🔹 Featured Projects
 
-**InsightPilot Pro**  
+**Data Genie**  
 AI-powered analytics dashboard that transforms raw data into interactive charts, AI-generated summaries, and chat-based insights using Next.js and Gemini API.
 
 **Snoopy – Social Memory App**  
@@ -65,5 +65,7 @@ A full-stack social application with authentication and real-time data persisten
 
 ![VinaySehwag14's Language stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=VinaySehwag14&type=languages&theme=dark&chart=bars)
 ---
+
+<a href="https://app.daily.dev/malang14"><img src="https://api.daily.dev/devcards/v2/TklRDb3j3OmlxSxvBHOQg.png?type=default&r=jru" width="356" alt="Vinay Sehwag's Dev Card"/></a>
 
 ⭐ If you’re interested in **frontend, product engineering, or AI-enabled web applications**, feel free to explore my repositories or reach out.
